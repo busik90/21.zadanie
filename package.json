@@ -1,0 +1,13 @@
+{
+  "name": "Mongoose",
+  "version": "0.1.0",
+  "description": "Mongoose, czyli MongoDB dla Node.js",
+  "keywords": [
+    "MongoDB",
+    "Mongoose",
+    "Node.js"
+  ],
+  "dependencies": {
+    "mongoose": "^5.2.7"
+  }
+}
